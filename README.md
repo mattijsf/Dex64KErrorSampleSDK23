@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/mattijsf/Dex64KErrorSampleSDK23.svg?branch=master)](https://travis-ci.org/mattijsf/Dex64KErrorSampleSDK23)
+
+
 To test the error run `./gradlew clean assembleDevDebug`
 
 Output:
