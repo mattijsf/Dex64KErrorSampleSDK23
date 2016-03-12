@@ -22,10 +22,10 @@ android {
 
     productFlavors {
         dev {
-            minSdkVersion 20
+            minSdkVersion 23
         }
         prod {
-            minSdkVersion 14
+            minSdkVersion 20
         }
     }
 
